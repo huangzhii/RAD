@@ -1,0 +1,10 @@
+,CAUD,HIPP,IPL,SMTG,Total
+Unique N of sample,38,41,38,38,43
+"Unique Age (median, min-max)",87 (59 - 98),88 (59 - 100),88 (59 - 100),88 (59 - 100),88 (59 - 100)
+Unique Gender (Male ratio),55.26%,53.66%,55.26%,52.63%,55.81%
+Ctrl Group,10,10,8,9,37
+AsymAD Group,10,11,12,11,44
+ADD Group,18,20,18,18,74
+Total samples,38,41,38,38,155
+N of proteins,4635,5117,6099,5851,7115 (unique) 3964 (mutual)
+N of peptides,26123,31863,42492,40342,56073 (unique) 19218 (mutual)
