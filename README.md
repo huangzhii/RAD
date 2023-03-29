@@ -8,8 +8,7 @@ Zhi Huang, Gennifer E. Merrihew, Eric B. Larson, Jea Park, Deanna Plubell, Edwar
 
 ## Data availability
 
-Skyline documents, raw files for quality control and DIA data are available at [Panorama Public](https://panoramaweb.org/ADBrainCleanDiagDIA.url). ProteomeXchange ID: [PXD034525](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD034525). All external data are available at https://www.synapse.org/ based on the request. To fully comply with the policy of [synapse.org](https://www.synapse.org/), no identifiable or controlled source data, including metadata, can be found within this repository.
-
+The Skyline documents, raw files for quality control, and DIA data used in this study are available at [Panorama Public](https://panoramaweb.org/ADBrainCleanDiagDIA.url). The proteomics data generated in this study have been deposited in the ProteomeXchange database under the access code: [PXD034525](http://proteomecentral.proteomexchange.org/cgi/GetDataset?ID=PXD034525). The external validation data are available and can be obtained at [synapse.org](https://www.synapse.org/). Specifically, [Banner](https://www.synapse.org/#!Synapse:syn7170616), [ROSMAP](https://www.synapse.org/#!Synapse:syn3219045), [UPP](https://www.synapse.org/#!Synapse:syn17009177), and [BLSA](https://www.synapse.org/#!Synapse:syn3606086). UniProtKB (2022_01) database can be reached at [here](https://www.uniprot.org/release-notes/2022-02-23-release). To fully comply with the policy of [synapse.org](https://www.synapse.org/), no identifiable or controlled source data, including metadata, can be found within this repository.
 
 ## Prerequisite
 
